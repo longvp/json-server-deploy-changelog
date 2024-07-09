@@ -8,7 +8,7 @@
 					"data_changelog": [
 						{
 							"type": "awesome-feature",
-							"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet labore itaque deleniti tenetur voluptatibus odio adipisci velit placeat magni doloremque provident sed iure veritatis obcaecati, fuga facere maxime temporibus voluptate."
+							"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
 						},
 						{
 							"type": "bug",
@@ -56,7 +56,7 @@
 						},
 						{
 							"type": "bug",
-							"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet labore itaque deleniti tenetur voluptatibus odio adipisci velit placeat magni doloremque provident sed iure veritatis obcaecati, fuga facere maxime temporibus voluptate."
+							"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
 						}
 					]
 				}
@@ -87,7 +87,7 @@
 						},
 						{
 							"type": "bug",
-							"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet labore itaque deleniti tenetur voluptatibus odio adipisci velit placeat magni doloremque provident sed iure veritatis obcaecati, fuga facere maxime temporibus voluptate."
+							"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
 						}
 					]
 				}
