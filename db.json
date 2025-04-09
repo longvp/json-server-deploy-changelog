@@ -1,97 +1,62 @@
 {
-	"data_year": [
-		{
-			"year": 2024,
-			"data_month": [
-				{
-					"month": "June 1",
-					"data_changelog": [
-						{
-							"type": "awesome-feature",
-							"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-						},
-						{
-							"type": "bug",
-							"description": "Bug description"
-						}
-					]
-				},
-				{
-					"month": "June 3",
-					"data_changelog": [
-						{
-							"type": "free-feature",
-							"description": "Free feature description 2"
-						},
-						{
-							"type": "bug",
-							"description": "Bug description 2"
-						}
-					]
-				}
-			]
-		},
-		{
-			"year": 2023,
-			"data_month": [
-				{
-					"month": "May 1",
-					"data_changelog": [
-						{
-							"type": "integration",
-							"description": "Integration description dad"
-						},
-						{
-							"type": "bug",
-							"description": "Bug description fe"
-						}
-					]
-				},
-				{
-					"month": "May 3",
-					"data_changelog": [
-						{
-							"type": "improvement",
-							"description": "Improvement description 2dde"
-						},
-						{
-							"type": "bug",
-							"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-						}
-					]
-				}
-			]
-		},
-		{
-			"year": 2022,
-			"data_month": [
-				{
-					"month": "May 1",
-					"data_changelog": [
-						{
-							"type": "integration",
-							"description": "Integration description dad"
-						},
-						{
-							"type": "bug",
-							"description": "Bug description fe"
-						}
-					]
-				},
-				{
-					"month": "May 3",
-					"data_changelog": [
-						{
-							"type": "improvement",
-							"description": "Improvement description 2dde"
-						},
-						{
-							"type": "bug",
-							"description": "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-						}
-					]
-				}
-			]
-		}
-	]
+	"data": {
+		"success": true,
+		"data": [
+			{
+				"type": "VIEW",
+				"items": [
+					{
+						"product_id": "10242231140545",
+						"quantity": 1,
+						"unit_price": 630,
+						"product_name": "Default Title",
+						"product_url": "/products/the-archived-snowboard",
+						"product_image": "https://rin-web-pixel.myshopify.com/cdn/shop/files/2.jpg?v=1715052480"
+					}
+				],
+				"conversion_date_time": "2025-04-08T03:13:55.000Z"
+			},
+			{
+				"type": "ADD_TO_CART",
+				"items": [
+					{
+						"product_id": "47876286283969",
+						"quantity": 1,
+						"unit_price": 630,
+						"product_url": "/products/the-archived-snowboard?variant=47876286283969",
+						"product_image": "https://cdn.shopify.com/s/files/1/0782/1262/8673/files/2.jpg?v=1715052480"
+					}
+				],
+				"conversion_date_time": "2025-04-08T03:13:57.000Z"
+			},
+			{
+				"type": "BEGIN_CHECKOUT",
+				"items": [
+					{
+						"product_id": "10242231140545",
+						"quantity": 1,
+						"unit_price": 630,
+						"product_name": "The Archived Snowboard",
+						"product_url": "/products/the-archived-snowboard",
+						"product_image": "https://cdn.shopify.com/s/files/1/0782/1262/8673/files/2_64x64.jpg?v=1715052480"
+					}
+				],
+				"conversion_date_time": "2025-04-08T03:14:00.000Z"
+			},
+			{
+				"type": "CHECKOUT_COMPLETED",
+				"items": [
+					{
+						"product_id": "10242231140545",
+						"quantity": 1,
+						"unit_price": 630,
+						"product_name": "The Archived Snowboard",
+						"product_url": "/products/the-archived-snowboard",
+						"product_image": "https://cdn.shopify.com/s/files/1/0782/1262/8673/files/2_64x64.jpg?v=1715052480"
+					}
+				],
+				"conversion_date_time": "2025-04-08T03:15:16.182Z"
+			}
+		]
+	}
 }
